@@ -2,7 +2,7 @@ package clases;
 
 /**
  *
- * @author diego123
+ * @author diego jaimes escobar
  */
 public class Nodo {
     public Object dato;
