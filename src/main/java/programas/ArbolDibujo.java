@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 package programas;
 
 import clases.ArbolBinario;
@@ -10,7 +6,7 @@ import javax.swing.JOptionPane;
 import clases.Busqueda;
 /**
  *
- * @author diego123
+ * @author diego jaimes escobar
  */
 public class ArbolDibujo extends javax.swing.JFrame {
 

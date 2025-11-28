@@ -12,7 +12,7 @@ import java.awt.RenderingHints;
 
 /**
  *
- * @author diego123
+ * @author diego jaimes escobar
  */
 public class PanelDibujo extends javax.swing.JPanel {
 
